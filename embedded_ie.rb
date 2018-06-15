@@ -1,9 +1,6 @@
 
 
-# Embedded IE automation via watir
-##################################################################
-# References
-##################################################################
+
 
   $VERBOSE=nil
   require 'watir/win32ole/win32ole.so' # This might throw some constant initialization warnings 
